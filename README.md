@@ -1,5 +1,5 @@
 # Hola! Soy Christian 🖖  
-`💻 Full Stack Develope`
+`💻 Full Stack Developer`
 
 <br />
 
