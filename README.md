@@ -25,7 +25,7 @@
 <br />
 
 ### ⚡ Stack Tecnológico
-<img src="https://skillicons.dev/icons?i=md,html,css,bootstrap,tailwind,js,ts,vite,react,nextjs,express,sequelize,postgresql,mysql,mongodb,nodejs,postman,docker,githubactions" />
+<img src="https://skillicons.dev/icons?i=md,html,css,bootstrap,tailwind,js,ts,vite,react,nextjs,express,sequelize,postgresql,mysql,mongodb,nodejs,postman,docker,git,github,githubactions" />
 
 <br />
 
