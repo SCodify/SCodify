@@ -24,13 +24,13 @@
 
 <br />
 
-### 📊 Mis Estadísticas
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scodify&theme=transparent&hide_border=true&locale=es)](https://git.io/streak-stats)
+### ⚡ Stack Tecnológico
+<img src="https://skillicons.dev/icons?i=regex,md,html,css,bootstrap,tailwind,js,ts,vite,react,nextjs,express,sequelize,postgresql,mysql,mongodb,nodejs,postman,docker,bash,npm,git,github,githubactions" />
 
 <br />
 
-### ⚡ Stack Tecnológico
-<img src="https://skillicons.dev/icons?i=regex,md,html,css,bootstrap,tailwind,js,ts,vite,react,nextjs,express,sequelize,postgresql,mysql,mongodb,nodejs,postman,docker,bash,npm,git,github,githubactions" />
+### 📊 Mis Estadísticas
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scodify&theme=github-dark&locale=es)](https://git.io/streak-stats)
 
 <br />
 
