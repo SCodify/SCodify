@@ -30,7 +30,7 @@
 <br />
 
 ### 📊 Mis Estadísticas
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scodify&theme=soft-green&locale=es)](https://github.com/scodify)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=scodify&theme=soft-green&locale=es)](https://github.com/scodify)
 
 <br />
 
