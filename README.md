@@ -37,8 +37,8 @@
 ### 🔗 Contacto 
 <ul style="list-style:none;">
   <li style="padding-bottom:15px;"><a href="https://cledesma.vercel.app/" target="_blank">🧑‍💻 Portfolio</a></li>
-  <li style="padding-bottom:15px;"><a href="https://www.linkedin.com/in/cledesma92/" target="_blank">💼 LinkedIn (personal)</a></li>
-  <li style="padding-bottom:15px;"><a href="https://www.linkedin.com/company/softcodify/" target="_blank">💼 LinkedIn (SoftCodify)</a></li>
+  <li style="padding-bottom:15px;"><a href="https://www.linkedin.com/in/cledesma92/" target="_blank">💼 LinkedIn Personal</a></li>
+  <li style="padding-bottom:15px;"><a href="https://www.linkedin.com/company/softcodify/" target="_blank">💼 LinkedIn SoftCodify</a></li>
   <li style="padding-bottom:15px;"><a href="https://softcodify.com/" target="_blank">🌎 Sitio Web</a></li>
   <li style="padding-bottom:15px;"><a href="https://github.com/SCodify-partners" target="_blank">🏢 Organización</a></li>
 </ul>
