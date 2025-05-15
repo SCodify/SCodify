@@ -20,7 +20,7 @@
 > Si estás aprendiendo a programar, **lee código de otros** y experimentá sin miedo. 🧑‍💻  
 
 > [!CAUTION]  
-> Este código fue probado en **mi máquina**. Si no funciona en la tuya… 🤷‍♂️   
+> Este código fue probado en **mi máquina**. Si no funciona en la tuya, es tu problema 😜
 
 <br />
 
